@@ -1,4 +1,6 @@
 # Awesome-Embodied-AI
+![image](https://github.com/yunlongdong/Awesome-Embodied-AI/assets/36396315/95078707-7501-4c17-b602-7e32d3348e98)
+
 
 ## Scene Understanding
 
