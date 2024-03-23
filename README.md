@@ -20,7 +20,8 @@
 
 | | Description | Paper | Code |
 |------|-------|------|------|
-|GPT4V  |  |  | |
+|GPT4V  | MLM(Image+Language->Language) | https://arxiv.org/abs/2303.08774 | |
+|Claude3-Opus  | MLM(Image+Language->Language) | https://www.anthropic.com/news/claude-3-family | |
 |GLaMM | Pixel Grounding | <https://arxiv.org/abs/2311.03356> |<https://github.com/mbzuai-oryx/groundingLMM> |
 |All-Seeing |Pixel Grounding | <https://arxiv.org/abs/2402.19474>| <https://github.com/OpenGVLab/all-seeing>|
 |LEO | 3D | <https://arxiv.org/abs/2311.12871> |<https://github.com/embodied-generalist/embodied-generalist> |
@@ -71,6 +72,12 @@
 |------|-------|------|------|
 |COPA| |<https://arxiv.org/abs/2403.08248>||
 |ManipLLM| |<https://arxiv.org/abs/2312.16217>||
+
+### Language Corrections
+| | Description | Paper | Code |
+|------|-------|------|------|
+|OLAF| |<https://arxiv.org/pdf/2310.17555>||
+|YAYRobot| |<https://arxiv.org/abs/2403.12910>|https://github.com/yay-robot/yay_robot|
 
 ### Planning from LLM
 
