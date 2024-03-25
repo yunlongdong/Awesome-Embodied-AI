@@ -64,6 +64,7 @@
 |------|-------|------|------|
 |CLIPort||<https://arxiv.org/pdf/2109.12098.pdf>|<https://github.com/cliport/cliport>|
 |Robo-Affordances||<https://arxiv.org/abs/2304.08488>|<https://github.com/shikharbahl/vrb>|
+|Robo-ABC||<https://arxiv.org/abs/2401.07487>|https://github.com/TEA-Lab/Robo-ABC|
 
 ### Question&Answer from LLM
 
@@ -71,6 +72,7 @@
 |------|-------|------|------|
 |COPA| |<https://arxiv.org/abs/2403.08248>||
 |ManipLLM| |<https://arxiv.org/abs/2312.16217>||
+|ManipVQA| |<https://arxiv.org/pdf/2403.11289.pdf>||
 
 ### Language Corrections
 | | Description | Paper | Code |
