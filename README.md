@@ -72,7 +72,7 @@
 |------|-------|------|------|
 |COPA| |<https://arxiv.org/abs/2403.08248>||
 |ManipLLM| |<https://arxiv.org/abs/2312.16217>||
-|ManipVQA| |<https://arxiv.org/pdf/2403.11289.pdf>||
+|ManipVQA| |<https://arxiv.org/pdf/2403.11289.pdf>|https://github.com/SiyuanHuang95/ManipVQA|
 
 ### Language Corrections
 | | Description | Paper | Code |
