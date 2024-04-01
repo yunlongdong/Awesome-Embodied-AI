@@ -51,7 +51,7 @@
 
 ## Action Output
 
-### Gnerative Imitation Learning
+### Generative Imitation Learning
 
 | | Description | Paper | Code |
 |------|-------|------|------|
@@ -62,12 +62,13 @@
 
 | | Description | Paper | Code |
 |------|-------|------|------|
-|CLIPort||<https://arxiv.org/pdf/2109.12098.pdf>|<https://github.com/cliport/cliport>|
-|Robo-Affordances||<https://arxiv.org/abs/2304.08488>|<https://github.com/shikharbahl/vrb>|
+|CLIPort|Pick&Place|<https://arxiv.org/pdf/2109.12098.pdf>|<https://github.com/cliport/cliport>|
+|Robo-Affordances|Contact&Post-contact trajectories|<https://arxiv.org/abs/2304.08488>|<https://github.com/shikharbahl/vrb>|
 |Robo-ABC||<https://arxiv.org/abs/2401.07487>|https://github.com/TEA-Lab/Robo-ABC|
 |Where2Explore|Few shot learning from semantic similarity|<https://proceedings.neurips.cc/paper_files/paper/2023/file/0e7e2af2e5ba822c9ad35a37b31b5dd4-Paper-Conference.pdf>||
 |Move as You Say, Interact as You Can|Affordance to motion from diffusion model|<https://arxiv.org/pdf/2403.18036.pdf>||
 |AffordanceLLM|Grounding affordance with LLM|<https://arxiv.org/pdf/2401.06341.pdf>||
+|Environment-aware Affordance||<https://proceedings.neurips.cc/paper_files/paper/2023/file/bf78fc727cf882df66e6dbc826161e86-Paper-Conference.pdf>||
 
 ### Question&Answer from LLM
 
