@@ -41,6 +41,7 @@
 |------|-------|------|------|
 |UMI  | Two-Fingers | <https://arxiv.org/abs/2402.10329> |<https://github.com/real-stanford/universal_manipulation_interface> |
 |DexCap | Five-Fingers| <https://dex-cap.github.io/assets/DexCap_paper.pdf>|<https://github.com/j96w/DexCap> |
+|HIRO Hand|Hand-over-hand|<https://sites.google.com/view/hiro-hand>||
 
 ### Generative Simulation
 
