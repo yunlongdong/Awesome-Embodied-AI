@@ -72,6 +72,7 @@
 |Environment-aware Affordance||<https://proceedings.neurips.cc/paper_files/paper/2023/file/bf78fc727cf882df66e6dbc826161e86-Paper-Conference.pdf>||
 |OpenAD|Open-Voc Affordance Detection from point cloud|<https://www.csc.liv.ac.uk/~anguyen/assets/pdfs/2023_OpenAD.pdf>|<https://github.com/Fsoft-AIC/Open-Vocabulary-Affordance-Detection-in-3D-Point-Clouds>|
 |RLAfford|End-to-End affordance learning with RL|<https://gengyiran.github.io/pdf/RLAfford.pdf>||
+|General Flow|Collect affordance from video|<https://general-flow.github.io/general_flow.pdf>|<https://github.com/michaelyuancb/general_flow>|
 
 ### Question&Answer from LLM
 
