@@ -74,6 +74,7 @@
 |RLAfford|End-to-End affordance learning with RL|<https://gengyiran.github.io/pdf/RLAfford.pdf>||
 |General Flow|Collect affordance from video|<https://general-flow.github.io/general_flow.pdf>|<https://github.com/michaelyuancb/general_flow>|
 |PreAffordance|Pre-grasping planning|<https://arxiv.org/pdf/2404.03634.pdf>||
+|ScenFun3d|Fine-grained functionality&affordance in 3D scene|<https://aycatakmaz.github.io/data/SceneFun3D-preprint.pdf>|<https://github.com/SceneFun3D/scenefun3d>|
 
 ### Question&Answer from LLM
 
