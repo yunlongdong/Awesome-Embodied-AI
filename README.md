@@ -96,3 +96,4 @@
 |------|-------|------|------|
 |SayCan| API Level|<https://arxiv.org/abs/2204.01691>|<https://github.com/google-research/google-research/tree/master/saycan> |
 |VILA| Prompt Level|<https://arxiv.org/abs/2311.17842>| |
+| Code-as-Monitor | CVPR 2025 | <https://arxiv.org/abs/2412.04455> | <https://zhoues.github.io/Code-as-Monitor/> |
