@@ -5,6 +5,7 @@
 
 | | Description | Paper | Code |
 |------|-------|------|------|
+|RoboRefer  | Object referring | <https://arxiv.org/pdf/2506.04308> | <https://github.com/Zhoues/RoboRefer>|
 |SAM  | Segmentation | <https://arxiv.org/abs/2304.02643> | <https://github.com/facebookresearch/segment-anything>|
 |YOLO-World | Open-Vocabulary Detection | <https://arxiv.org/abs/2401.17270> |<https://github.com/AILab-CVC/YOLO-World>|
 
