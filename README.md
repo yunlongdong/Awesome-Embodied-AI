@@ -19,6 +19,7 @@
 
 | | Description | Paper | Code |
 |------|-------|------|------|
+|MJev-Spatial | Spatial choices, numerical estimation and 2D pointing | <https://arxiv.org/abs/2610.22276> | <https://github.com/Fr0zenCrane/MJev-Spatial> |
 |GPT4V  | MLM(Image+Language->Language) | https://arxiv.org/abs/2303.08774 | |
 |Claude3-Opus  | MLM(Image+Language->Language) | https://www.anthropic.com/news/claude-3-family | |
 |GLaMM | Pixel Grounding | <https://arxiv.org/abs/2311.03356> |<https://github.com/mbzuai-oryx/groundingLMM> |
